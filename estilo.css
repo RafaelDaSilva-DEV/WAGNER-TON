@@ -1,0 +1,353 @@
+
+
+html,body,ul,ol,li,form,fieldse{
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+background-image: url(planodefundo.png);
+}
+.div-amarela{
+    background-color: yellow ;
+    
+}
+#texto-amarelo{
+text-align: center;
+font-size: 20px;
+text-decoration: none;
+color: black;
+margin-top: 05px;
+}
+#imgdesonto{
+    
+}
+.titulo-1{
+    padding-top: 150px;
+    text-align: center;
+    color: rgb(27, 239, 8);
+    font-family:'Gulzar', serif;
+    font-size: 50px;
+}
+.titulo-1:hover{
+    color: aqua;
+}
+.texto-princi-1{
+    color: #fff;
+    text-align: center;
+    font-family:'Gulzar', serif;
+    font-size: 20px;
+    padding-bottom: 100px;
+}
+.texto-princi-1:hover{
+    color: aqua;
+}
+#sessao-desconto{
+    background-image:url(fundoverderst.png) ;
+    text-align: center;
+    background-size: auto;
+    background-repeat:repeat;
+    background-attachment: scroll;
+    background-position: center;
+    overflow-y: hidden;
+    border-radius: 10px;
+    padding-top: 100px;
+}
+.texto-disconto{
+    color: #fff;
+    font-family:'Gulzar', serif;
+    font-size: 200px;
+    text-align: center;
+    text-shadow: 0 0 0.1em rgb(14, 255, 243);
+    
+
+    
+}
+#img-porcentagem{
+    width: 300px;
+    height:300px;
+}
+.texto-disconto:hover{
+    color:rgb(0, 255, 38);
+}
+.imagem-maquina{
+
+}
+.testo-desconto{
+    color: #fff;
+    text-align: center;
+    padding-top: 120px;
+    color: rgb(35, 252, 7);
+    font-family:'Gulzar', serif;
+}
+.cupon{
+    text-align: center;
+
+}
+.imagem-cupon{
+    width:400px ;
+    height: 200px;
+}
+#texto-bandeiras{
+    color:#fff;
+    font-family:'Gulzar', serif;
+    text-align: center;
+    font-size: 45px; 
+}
+#texto-bandeiras:hover{
+    color: rgb(38, 252, 9);
+}
+.container-fluid{
+    text-align: center;
+}
+#imagem-bandeiras{
+  height: 50px;
+  width: 400px;  
+}
+.sessao-planos{ 
+  
+}
+.cartao-plano{
+   
+}
+.card{
+    margin-left: 50px;
+    margin-bottom: 50px;
+    
+}
+.sessao-bandeiras{
+    padding-bottom: 150px;
+}
+.texto-porcentagem-desconto{
+    color: rgb(25, 129, 11);
+}
+.btn,.btn-success{
+    color: rgb(29, 252, 0);
+    
+}
+.planos-e-taxas{
+    color: #fff;
+    text-align: center;
+    font-family:'Gulzar', serif;
+    font-size: 50px;
+    padding-bottom: 50px;
+}
+.planos-e-taxas:hover{
+    color: rgb(29, 249, 0);
+}
+.sessao-maquina{
+    
+}
+#titulo-maquininha{
+    color: #fff;
+    text-align: center;
+    font-family:'Gulzar', serif;
+    font-size: 50px;
+    padding-top: 50px;
+   
+}
+#titulo-maquininha:hover{
+color: rgb(34, 255, 4);
+}
+.sessao-maquina{
+    
+}
+.maquina-imagens{
+    
+}
+.cartao1{
+  margin: -100px;
+}
+.imagem-maquina-apresentacao{
+    width: 10px;
+    height:300px;
+}
+.favi-frete{
+    width: 30px;
+    height: 30px;
+    margin-left: -22px;
+}
+.card-text{
+    text-align:center;
+    width: 250px;
+    font-size: 15px;
+    margin-left: -40px;
+    font-size: 13px
+}
+
+#cartao1{
+margin-left:150px; 
+}
+.list-group-item{
+    font-size: 13px;
+}
+.card{ background-image: url(Feature\ illustration\ \(1\).png);
+    background-size: auto;
+    background-repeat:repeat;
+    background-attachment: scroll;
+    background-position: center;
+    overflow-y: none;    
+}
+#sessao-vantagem{
+    color: #fff;
+    padding-bottom: 60px;
+    padding-top: 50px;
+}
+#texto-titulo-vantagem{
+    text-align: center;
+    font-family:'Gulzar', serif;
+    font-size: 50px;
+    margin-left:300px ;
+    margin-right: 300px;
+}
+#texto-titulo-vantagem:hover{
+    color: rgb(0, 255, 0);
+}
+.catalogo{
+    font-family:'Gulzar', serif;
+    font-size: 45px;
+    margin-left:300px ;
+    margin-right: 300px;
+    padding-top:80px
+}
+.titulo-catalogo{
+    color: aliceblue;
+    text-align: center;
+    font-family:'Gulzar', serif;
+    font-size: 40px; 
+}
+.titulo-catalogo:hover{
+    color: rgb(22, 250, 6);
+    
+}
+.botao-ultimo{
+    text-decoration: none;
+    color: #fff;
+text-align: center;
+
+}
+.botao-final{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 60px;
+}
+.sessao-text-vantagens{
+    
+}
+#rodape{
+    background-color: black;
+}
+.redes-sociais{
+    padding: 25px;
+}
+.texto-redes-sociais{
+    color: #fff;
+    font-family:'Gulzar', serif;
+    font-size: 35px;
+    padding-top: 80px; 
+}
+.texto-redes-sociais:hover{
+
+}
+.alinhamento-div-vantagem{
+   margin-right:42px;
+
+}
+#vantagem{
+    margin-left: -50px;
+    border: 1px rgb(255, 255, 255) solid;
+}
+.texto-direitos{
+    color: #fff;
+}
+.testando{
+    
+    margin-left: -26px;
+}
+
+@media (max-width:680.98px){
+    #texto-amarelo{
+       
+        font-size: 15px;
+        text-justify: distribute;
+        margin-left: -7px;
+        } 
+        .texto-princi-1{
+            font-size: 18px;
+        }
+        .titulo-1{
+            font-size: 31px;
+        }
+        .texto-disconto{
+            font-size: 55px;
+        }
+        #img-porcentagem{
+            width:120px ;
+            height:120px;
+        }
+        #sessao-desconto{
+            padding-top: 20px;
+            border-radius: 300px;
+        }
+        .imagem-cupon{
+            width:250px ;
+            height: 100px;
+        }
+        #texto-bandeiras{
+            color:#fff;
+            font-family:'Gulzar', serif;
+            text-align: center;
+            font-size: 30px; 
+        }
+        #imagem-bandeiras{
+            height: 40px;
+            width: 300px;  
+          }
+          .sessao-bandeiras{
+            padding-bottom: 100px;
+        }
+        #titulo-maquininha{
+            font-size: 32px;
+        }
+        .planos-e-taxas{
+            font-size: 32px;
+        }
+        .cont-maquina-ali{
+        text-align: center;
+        }
+        #cartao1{
+            margin-left:100px; 
+            }
+         #cartao2{
+        margin-left:100px;}
+        #cartao3{
+        margin-left:100px;}
+        #cartao4{
+        margin-left:100px;}
+        #texto-titulo-vantagem{
+            text-align: center;
+            font-family:'Gulzar', serif;
+            font-size: 30px;
+            margin-left:0px ;
+            margin-right: 0px;
+} 
+.sessao-text-vantagens{
+
+}
+.alinhamento-div-vantagem{
+    margin-left: 78px;
+}
+.catalogo{
+    
+    margin-left:0px ;
+    margin-right: 0px;
+}
+.titulo-catalogo{
+    font-family:'Gulzar', serif;
+    font-size: 28px; 
+}
+}
+@media(min-height:680.98px) {
+   
+
+}
